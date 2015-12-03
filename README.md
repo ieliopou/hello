@@ -1,8 +1,8 @@
 # hello
 hello world practice
 
-"Hello World - GitHub Tutorial"/n
-Going through the basics of GitHub online:\n
+"Hello World - GitHub Tutorial"
+Going through the basics of GitHub online:
 -Repository
 -Issue
 -Branch
