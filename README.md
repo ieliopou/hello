@@ -11,3 +11,4 @@ Going through the basics of GitHub online: <br />
 -Merge pull request = apply the pull request (apply changes)  
 
 btw apparently you need 2 spaces to create a new line in this .md crap. Or you can type "br /" but replace "" with <>
+Also! if you include "fixes #x" in the commit title, it will close issue #x. 
